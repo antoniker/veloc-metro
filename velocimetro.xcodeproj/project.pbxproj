@@ -47,6 +47,7 @@
 		3DF0B8221C30E7B70071CCE8 /* velocimetroUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = velocimetroUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3DF0B8261C30E7B70071CCE8 /* velocimetroUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = velocimetroUITests.swift; sourceTree = "<group>"; };
 		3DF0B8281C30E7B70071CCE8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3DF0B8341C30E8080071CCE8 /* velocimetro.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = velocimetro.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +98,7 @@
 		3DF0B8051C30E7B60071CCE8 /* velocimetro */ = {
 			isa = PBXGroup;
 			children = (
+				3DF0B8341C30E8080071CCE8 /* velocimetro.playground */,
 				3DF0B8061C30E7B60071CCE8 /* AppDelegate.swift */,
 				3DF0B8081C30E7B60071CCE8 /* ViewController.swift */,
 				3DF0B80A1C30E7B60071CCE8 /* Main.storyboard */,
